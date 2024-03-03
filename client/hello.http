@@ -1,2 +1,2 @@
 ### Hello World Page
-GET http://localhost:20001/hello?name=Sonic
+GET http://localhost:30000/hello?name=wally
